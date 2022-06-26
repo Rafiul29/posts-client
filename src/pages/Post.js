@@ -2,7 +2,7 @@ import React from "react";
 
 function Post(){
     return(
-        <>
+
             <>
                 <nav className="navbar navbar-expand-lg navbar-light" id="mainNav">
                     <div className="container px-4 px-lg-5">
@@ -210,7 +210,6 @@ function Post(){
                 </footer>
             </>
 
-        </>
     )
 }
 export default Post

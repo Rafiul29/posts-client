@@ -7,6 +7,7 @@ import { Route, Routes } from 'react-router-dom'
 function App() {
   return (
       <>
+
           <Routes>
               <Route path="/index.html" element={<Home />} />
               <Route path='/about.html' element={<About/>}/>
